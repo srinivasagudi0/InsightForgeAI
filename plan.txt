@@ -1,0 +1,38 @@
+AI That Reads Research Papers and Builds Knowledge Graphs
+
+Problem: Researchers waste hours summarizing papers.
+
+Project Idea:
+Create a system that reads PDFs and automatically extracts key insights, builds a knowledge graph, and connects related research.
+
+Features
+
+Upload papers
+
+Automatic summarization
+
+Extract methods, datasets, results
+
+Visual knowledge graph of connections
+
+Tech Stack
+
+LLMs (OpenAI / Llama)
+
+NLP
+
+Neo4j graph database
+
+LangChain
+
+Python
+
+Impact
+
+Research acceleration
+
+Useful for universities
+
+Strong AI/NLP portfolio project
+
+so ai is currently coding fore me soit is time to chill and sleep whooo@

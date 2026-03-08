@@ -1,0 +1,10 @@
+openai
+streamlit
+pypdf
+pypdfium2
+plotly
+pandas
+Pillow
+python-docx
+reportlab
+pytest
